@@ -1,0 +1,13 @@
+{
+  "name": "BoilerPlate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.4.7",
+    "postcss-modules": "^1.4.1"
+  },
+  "devDependencies": {
+    "sass": "^1.17.0"
+  }
+}
